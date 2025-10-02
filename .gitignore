@@ -10,6 +10,10 @@
 !simpleConference.sty
 !images
 !images/CMS_disection_Run2.png
+!images/compare_matrix_GenJet_hadronFlavour_vs_GHS_full.png
+!images/compare_matrix_GenJet_partonFlavour_vs_GHS_full_noLep.png
+!images/compare_matrix_hadronFlavour_vs_GHS_full.png
+!images/compare_matrix_partonFlavour_vs_GHS_full_noLep.png
 !images/compare_GenJet_nBHadrons_GHSFull_light_vs_b_filter_hadronFlavour_5.png
 !images/compare_GenJet_nBHadrons_GHSFull_light_vs_b_filter_partonFlavour_5.png
 !images/compare_GenJet_nCHadrons_GHSFull_light_vs_c_filter_hadronFlavour_4.png
