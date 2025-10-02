@@ -5,7 +5,7 @@
 !.github/workflows
 !LICENSE
 !mainTemplatePDF.tex
-!refs.bib
+!mainTemplatePDF.bib
 !generate_bib.py
 !simpleConference.sty
 !images
